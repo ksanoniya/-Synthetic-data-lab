@@ -37,4 +37,3 @@ The salary of a synthetic data engineer can vary widely based on factors such as
 - **Senior-Level Positions**: Can command salaries from $130,000 to $180,000 or more, especially in high-demand areas or specialized roles.
 - **Specialized Roles**: Positions that require advanced skills in machine learning, data privacy, or specific industry knowledge can exceed $200,000 annually.
 
-
