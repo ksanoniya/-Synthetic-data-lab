@@ -33,7 +33,7 @@ Combining multiple methods to create more complex synthetic datasets.
 
 -- and many more --
 
-Why Use Synthetic Data?
+🛠️ Why Use Synthetic Data?
 - Privacy
 Synthetic data can be used without exposing sensitive information, making it a great alternative to real data in privacy-sensitive applications.
 
@@ -53,3 +53,26 @@ Synthetic data can be designed to reduce bias present in real-world datasets, he
 Synthetic data can be used to test algorithms and systems in controlled environments, ensuring robustness before deployment.
 
 --- and many more ---
+
+🛠️ Limitations of Synthetic Data
+- Realism
+Synthetic data may not perfectly capture the complexity and nuances of real-world data, leading to potential inaccuracies in models trained on it.
+
+- Overfitting
+Models trained on synthetic data may overfit to the generated patterns, failing to generalize well to real-world scenarios.
+
+- Validation
+Ensuring that synthetic data accurately represents real-world scenarios can be challenging, requiring careful validation and testing.
+
+- Ethical Concerns
+Synthetic data generation can raise ethical questions, especially if it is used to create misleading or biased datasets.
+
+- Dependence on Real Data
+Synthetic data generation often relies on real data for training, which can introduce biases or limitations from the original dataset.
+
+- Lack of Diversity
+Synthetic data may lack the diversity and variability found in real-world data, potentially limiting its effectiveness in certain applications.
+
+-- and many more --
+
+🛠️ Conclusion
